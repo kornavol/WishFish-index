@@ -47,17 +47,6 @@
 /* Based on http://coding.smashingmagazine.com/2013/02/14/setting-weights-and-styles-at-font-face-declaration/ */
 /* Front */
 
-
-/* My changes. Begining */
-
-#avol-charachters-line {
-	margin-top: 5vh;
-}
-
-/* My changes. End */
-
-
-
 @-webkit-keyframes slide-down {
 	0% {
 		opacity: 1;
@@ -16779,3 +16768,20 @@ Download Two
 		display: block;
 	}
 }
+
+
+/* My changes. Begining */
+
+#avol-charachters-line {
+	margin-top: 5vh;
+}
+
+.my-justify {
+	justify-content: space-evenly;
+}
+
+/* My changes. End */
+
+
+
+/* PROMO */
