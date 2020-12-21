@@ -47,8 +47,6 @@
 /* Based on http://coding.smashingmagazine.com/2013/02/14/setting-weights-and-styles-at-font-face-declaration/ */
 /* Front */
 
-
-
 @-webkit-keyframes slide-down {
 	0% {
 		opacity: 1;
