@@ -3156,7 +3156,8 @@ select {
 
 .banner.banner-one {
 	height: 750px;
-	background-image: url('/assets/img/banner-red-1.png');
+	/* background-image: url('/assets/img/banner-red-1.png'); */
+	background-image: url('https://wishfish-assets.s3.amazonaws.com/images/test/banner-red-1.png');
 	position: relative;
 	overflow-x: hidden;
 }
